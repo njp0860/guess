@@ -1,3 +1,6 @@
-## This is my guessing game
-wc -l guessinggame.sh
 
+## This is my guessing game
+
+```bash
+wc -l guessinggame.sh
+```

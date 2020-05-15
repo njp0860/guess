@@ -1,13 +1,7 @@
-
-
-Date make ran at:
-Thu May 14 16:12:20 MDT 2020
-
-Number of lines of code:
-0
+Title: Guessing Game
 
 Date make ran at:
-Thu May 14 16:13:21 MDT 2020
+Fri May 15 16:04:12 MDT 2020
 
 Number of lines of code:
-21
+35
